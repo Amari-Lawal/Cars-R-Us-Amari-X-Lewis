@@ -1,0 +1,27 @@
+
+Cars R us Lewis X Amari
+https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
+https://realpython.com/build-recommendation-engine-collaborative-filtering/
+https://www.datacamp.com/tutorial/recommender-systems-python
+Recommenders’ system 
+Training
+Car Name - 
+Price of car – float number
+Miles – percentage – 10000 -> 170000 
+Horsepower – Lambo 600hp -700hp -> max 280hp  good car  -> 100 worst hp
+Insurance price – 250£/year 7000£/ year
+Car Tax – 100£/low -> 750£ high
+Rating – 1 – 5 
+Insurance Company – Name of Insurance Company
+Annual income of client - 
+Torque – 800Nm ->  118Nm – 260Nm good first car  -> 50Nm
+Gender of recommendation – M/F/Other
+Colour – colour
+Survey – description info 
+Distance from Person – Destination <-> Car companies/Registered dealers (APIS)/Private sellers 
+
+price of car | Insurance | Miles/speed | torque | gender of recommendation | colour into | Survey of gender favourite cars | distance from person (Google maps)
+
+Inference 
+Insurance companies….
+
